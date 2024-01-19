@@ -24,4 +24,5 @@ The project follows a Lakehouse architecture with data layers (bronze, silver, g
 7. **End-to-End Pipeline Testing:** Thoroughly test the entire ETL pipeline to ensure seamless data flow and identify and resolve any potential issues.
    
 
-# Azure_Data_Lakehouse_ETL_Pipeline-Using-Azure-Data-Factory
+# Azure_Data_Lakehouse_ETL_Pipeline_Azure-Data-Factory -Architecture Diagram
+<img width="1163" alt="Screenshot 2023-03-16 at 15 17 22" src ="https://github.com/rajkumarr1977/Azure_Data_Lakehouse_ETL_Pipeline-Using-Azure-Data-Factory/blob/main/Azure%20Data%20Factory.PNG">
